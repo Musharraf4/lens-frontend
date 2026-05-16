@@ -2,6 +2,11 @@ LENZ is a SaaS web application that gives small businesses clear and reliable vi
 
 ## Getting Started
 
+Test Login Credentials
+
+## email: m.bilal@grayphite.com
+## password: Admin@1234
+
 First, run the development server:
 
 ```bash
