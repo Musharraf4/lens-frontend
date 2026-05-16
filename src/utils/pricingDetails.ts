@@ -1,0 +1,1 @@
+export const DISCOUNTED_PRICE = '15';
